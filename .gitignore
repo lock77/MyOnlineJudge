@@ -1,0 +1,16 @@
+# 忽略虚拟环境
+venv/
+
+# 忽略IDE配置文件
+.vscode/
+.idea/
+
+# 忽略敏感信息
+config.py
+*.env
+
+# 忽略系统文件
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
